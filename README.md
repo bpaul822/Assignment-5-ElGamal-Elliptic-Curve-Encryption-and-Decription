@@ -6,6 +6,8 @@ Procedure for running on Linux:
 Compile and Run:
 g++ -std=c++11 bignum.cpp ecc.cpp -o ecc && ./ecc
 
+Run using Linux executable: chmod 755 ecc && ./ecc
+
 Sample Ouputs(Note: *Input the Plain text Pmx and Pmy such that Pmx,Pmy is >0 and <p. *After the decryption, deciphered Message is displayed in (Pmx,Pmy) format as below:
 
 bpaul-lx01.adbldesign.analog.com:>g++ -std=c++11 bignum.cpp ecc.cpp -o ecc && ./ecc
