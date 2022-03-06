@@ -1,5 +1,5 @@
 # Assignment-5-ElGamal-Elliptic-Curve-Encryption-and-Decription
-Bibin Paul EE19M508 bibin.paul.c@gmail.com
+Bibin Paul 
 
 Procedure for running on Linux:
 
